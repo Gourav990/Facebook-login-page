@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+body{
+    background-color: #f0f2f5;
+}
+form{
+    border: 1px transparent black;
+    width: 396px;
+    height: 348.83px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    margin-top: 100px;
+    padding: 10px 0px 10px 0px;
+    position: relative;
+    left: 800px;
+}
+.a{
+    width: 85%;
+    height: 23px;
+    border: 0.1ch solid black;
+    text-align: start;
+    font-size: medium;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 14px 16px 10px 0px;
+    position: relative;
+    left: 20px;
+}
+a :hover{
+    background-color: rgb(59, 59, 215);
+}
+.b{
+    width: 85%;
+    height: 23px;
+    border: 0.1ch solid black;
+    text-align: start;
+    font-size: medium;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    padding: 14px 16px 10px 0px;
+    position: relative;
+    left: 20px;
+}
+.link{
+    width: 85%;
+    height: 23px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(59, 59, 215);
+    font-size: medium;
+    border: 2px solid blue;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 14px 16px 10px 0px;
+    position: relative;
+    left: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.For{
+align-items: center;
+text-align: center;
+color: blue;
+margin-bottom: 20px;
+}
+.For a{
+    align-items: center;
+text-align: center;
+color: blue;
+margin-bottom: 20px;
+}
+pre{
+    color: black;
+    font-size: smaller;
+    font-weight: 100px;
+}
+.create{
+    margin-top: 30px;
+    color: white;
+    width: 50%;
+    height: 23px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: rgb(26, 189, 56);
+    font-size: 20px;
+    border: 2px solid green;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+    padding: 14px 16px 10px 0px;
+    position: relative;
+    left: 20px;
+}
+.create a{
+    text-decoration: none;
+}
+.page{
+    margin-top: 20px;
+    position: relative;
+    left: 820px;
+}
+h1{
+    color: rgb(59, 59, 215);
+    position: relative;
+    left: 180px;
+    top: 230px;
+    font-size: 70px;
+}
+.comment{
+    width: 500px;
+    font-size: x-large;
+    position: relative;
+    left: 180px;
+    bottom: 270px;
+}
+/* @media (min-width:0px)and (max-width:300px){
+
+    body{
+        height: 100px;
+        width: 100px;
+        background-color: #f2d2d2;
+    }
+    form{
+        width: 280px;
+    }
+    h1{
+        font-size: 40px;
+        position: relative;
+        left:5px;
+        top: 20px;
+        padding-left: 20px;
+    }
+    .comment{
+        font-size: 8px;
+        left: 10px;
+        top: 20px;
+        padding-left: 20px;
+    }
+   
+    #main{
+        background-color: #2d1f1f;
+        color: rgb(186, 145, 145);
+      position: relative;
+      left: 10px;
+      height: auto;
+      padding-right: auto;
+      border: 2px solid black;
+      margin-top: 50px;
+      margin-bottom: 20px;
+    }
+    b{
+        color: rgb(167, 52, 52);
+    }
+    #main input{
+        width: 220px;
+        font-size: smaller;
+    }
+    .link{
+        position: relative;
+        left: 30px;
+        width: 100px;
+        height: auto;
+        padding-left: 10px;
+        font-size: medium;
+        
+    }
+    .For{
+        font-size: small;
+        text-align: left;
+        padding-left: 30px;
+        
+    }
+    .For a{
+        color: pink;
+    }
+    #main pre{
+        font-size: small;
+    }
+    .create{
+        position: relative;
+        width: 200px;
+        height: auto;
+        margin-left: 10px;
+        font-size: small;
+    }
+    .page{
+        font-size: 12px;
+        position: relative;
+        left: 20px;
+    }
+}
+
+@media (min-width:300px)and (max-width:600px){
+    body{
+        background-color: #f2d2d2;
+    }
+    h1{
+        font-size: 80px;
+        position: relative;
+        left:10px;
+        top: 20px;
+        padding-left: 20px;
+    }
+    .comment{
+        font-size: 13px;
+        left: 20px;
+        top: 20px;
+        padding-left: 20px;
+    }
+    #main{
+        background-color: #2d1f1f;
+        color: rgb(186, 145, 145);
+      position: relative;
+      left: 20px;
+      height: auto;
+      border: 2px solid black;
+      margin-top: 50px;
+      margin-bottom: 20px;
+    }
+    b{
+        color: rgb(167, 52, 52);
+    }
+    .page{
+        position: relative;
+        left: 20px;
+    }
+} */
